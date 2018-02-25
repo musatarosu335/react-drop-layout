@@ -1,0 +1,9 @@
+# bundleファイル
+public/*
+!public/index.html
+
+# 画像フォルダ
+assets/
+
+# node_modules
+node_modules/
